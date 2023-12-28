@@ -61,7 +61,7 @@ You can start fine-tuning your choice of LLM in 4 easy steps:
 2. **Install relevant packages**
 
 	```shell
-	git clone https://github.com/georgian-io/LLM-Finetuning-Hub.git
+	git clone https://github.com/Wonigox/LLM-Finetuning-Hub.git
 	cd LLM-Finetuning-Hub/
 	pip install -r requirements.txt
 	```
@@ -122,19 +122,19 @@ Our plan is to perform these experiments on all the LLMs below. To that end, thi
 
 | LLM        | Benchmarked?        |  Open-Source?     | README | Codebase |
 |:----------:|:-------------------:|:-----------------:|:------------:|:------------:|
-|Flan-T5     |:white_check_mark:   |:white_check_mark: |[Link](https://github.com/georgian-io/LLM-Finetuning-Hub/blob/main/flan-t5/README.md) | [Folder](https://github.com/georgian-io/LLM-Finetuning-Hub/tree/main/flan-t5) |
-|Falcon      |:white_check_mark:   |:white_check_mark: |[Link](https://github.com/georgian-io/LLM-Finetuning-Hub/blob/main/falcon/README.md) | [Folder](https://github.com/georgian-io/LLM-Finetuning-Hub/tree/main/falcon) |
-|RedPajama   |:white_check_mark:   |:white_check_mark: |[Link](https://github.com/georgian-io/LLM-Finetuning-Hub/blob/main/redPajama/README.md) | [Folder](https://github.com/georgian-io/LLM-Finetuning-Hub/tree/main/redPajama) |
-|Llama-2     |:white_check_mark: |:white_check_mark: |[Link](https://github.com/georgian-io/LLM-Finetuning-Hub/blob/main/llama2/README.md) |[Folder](https://github.com/georgian-io/LLM-Finetuning-Hub/tree/main/llama2) |
-|Mistral     |:white_check_mark: |:white_check_mark: |[Link](https://github.com/georgian-io/LLM-Finetuning-Hub/blob/main/mistral/README.md) |[Folder](https://github.com/georgian-io/LLM-Finetuning-Hub/tree/main/mistral) |
-|Zephyr     |:white_check_mark: |:white_check_mark: |[Link](https://github.com/georgian-io/LLM-Finetuning-Hub/blob/main/zephyr/README.md) |[Folder](https://github.com/georgian-io/LLM-Finetuning-Hub/tree/main/zephyr) |
+|Flan-T5     |:white_check_mark:   |:white_check_mark: |[Link](https://github.com/Wonigox/LLM-Finetuning-Hub/blob/main/flan-t5/README.md) | [Folder](https://github.com/Wonigox/LLM-Finetuning-Hub/tree/main/flan-t5) |
+|Falcon      |:white_check_mark:   |:white_check_mark: |[Link](https://github.com/Wonigox/LLM-Finetuning-Hub/blob/main/falcon/README.md) | [Folder](https://github.com/Wonigox/LLM-Finetuning-Hub/tree/main/falcon) |
+|RedPajama   |:white_check_mark:   |:white_check_mark: |[Link](https://github.com/Wonigox/LLM-Finetuning-Hub/blob/main/redPajama/README.md) | [Folder](https://github.com/Wonigox/LLM-Finetuning-Hub/tree/main/redPajama) |
+|Llama-2     |:white_check_mark: |:white_check_mark: |[Link](https://github.com/Wonigox/LLM-Finetuning-Hub/blob/main/llama2/README.md) |[Folder](https://github.com/Wonigox/LLM-Finetuning-Hub/tree/main/llama2) |
+|Mistral     |:white_check_mark: |:white_check_mark: |[Link](https://github.com/Wonigox/LLM-Finetuning-Hub/blob/main/mistral/README.md) |[Folder](https://github.com/Wonigox/LLM-Finetuning-Hub/tree/main/mistral) |
+|Zephyr     |:white_check_mark: |:white_check_mark: |[Link](https://github.com/Wonigox/LLM-Finetuning-Hub/blob/main/zephyr/README.md) |[Folder](https://github.com/Wonigox/LLM-Finetuning-Hub/tree/main/zephyr) |
 |OpenLlama   | |:white_check_mark: | | |
 |SalesForce XGen | |:white_check_mark: | | |
-|Mosaic MPT |:white_check_mark: |:white_check_mark: |[Link](https://github.com/georgian-io/LLM-Finetuning-Hub/blob/main/mosaic-mpt/README.md) |[Folder](https://github.com/georgian-io/LLM-Finetuning-Hub/tree/main/mosaic-mpt) | 
+|Mosaic MPT |:white_check_mark: |:white_check_mark: |[Link](https://github.com/Wonigox/LLM-Finetuning-Hub/blob/main/mosaic-mpt/README.md) |[Folder](https://github.com/Wonigox/LLM-Finetuning-Hub/tree/main/mosaic-mpt) | 
 |Cerebras | |:white_check_mark: | | |
-|Writer Palmyra |:white_check_mark: |:x: |[Link](https://github.com/georgian-io/LLM-Finetuning-Hub/blob/main/palmyra/README.md) |[Folder](https://github.com/georgian-io/LLM-Finetuning-Hub/tree/main/palmyra) |
-|AI21 Jurassic-2 |:white_check_mark: |:x: |[Link](https://github.com/georgian-io/LLM-Finetuning-Hub/blob/main/jurassic-2/README.md) |[Folder](https://github.com/georgian-io/LLM-Finetuning-Hub/tree/main/jurassic-2) |
-|OpenAI GPT-3.5 |:white_check_mark: |:x: |[Link](https://github.com/georgian-io/LLM-Finetuning-Hub/blob/main/gpt-3.5-turbo/README.md) |[Folder](https://github.com/georgian-io/LLM-Finetuning-Hub/tree/main/gpt-3.5-turbo) |
+|Writer Palmyra |:white_check_mark: |:x: |[Link](https://github.com/Wonigox/LLM-Finetuning-Hub/blob/main/palmyra/README.md) |[Folder](https://github.com/Wonigox/LLM-Finetuning-Hub/tree/main/palmyra) |
+|AI21 Jurassic-2 |:white_check_mark: |:x: |[Link](https://github.com/Wonigox/LLM-Finetuning-Hub/blob/main/jurassic-2/README.md) |[Folder](https://github.com/Wonigox/LLM-Finetuning-Hub/tree/main/jurassic-2) |
+|OpenAI GPT-3.5 |:white_check_mark: |:x: |[Link](https://github.com/Wonigox/LLM-Finetuning-Hub/blob/main/gpt-3.5-turbo/README.md) |[Folder](https://github.com/Wonigox/LLM-Finetuning-Hub/tree/main/gpt-3.5-turbo) |
 |Cohere Command | |:x: | | |
 |Google PaLM | |:x: | | |
 |Inflection Pi | |:x: | | |
@@ -239,7 +239,7 @@ We deployed the models mentioned above on two servers: FastApi and the HuggingFa
 
 All servers were run and received inference requests on an AWS g5.4xlarge instance with Nvidia GPU A10. For load testing, we utilized Vegeta to see how the system copes with a high volume of requests. Our objective was to identify the maximum RPS each model could manage, along with throughput, latency, and cost per 1,000 tokens. We created a set of sample sentences, each about ~100 tokens long, to generate the requests. During the load testing, a random sentence was chosen for each request, ensuring consistent testing results. This method allowed us to identify the typical RPS range each model and service could handle for various tasks.
 
-Below, two tables summarize our observations for all the models, tasks, and most used deployment options explored in this repository (we also tried LLama on Nvidia A100 using the Ray server; more details can be found [here](https://github.com/georgian-io/LLM-Finetuning-Hub/blob/main/llama2/README.md)). Generally, the TGI server is more cost-effective than the custom server and simpler to set up. It provided better RPS, throughput, and lower latency. A different inference server, [vLLm](https://vllm.readthedocs.io), can offer even higher maximum RPS compared to TGI (you can find more details about our load testing experiments with it for LLama-2 [here](https://github.com/georgian-io/LLM-Finetuning-Hub/blob/main/llama2/README.md)). Last thing to mention is that models designed for classification are slower than those for summarization. Aslo, the model's size (number of training parameters) doesn't significantly impact its performance.
+Below, two tables summarize our observations for all the models, tasks, and most used deployment options explored in this repository (we also tried LLama on Nvidia A100 using the Ray server; more details can be found [here](https://github.com/Wonigox/LLM-Finetuning-Hub/blob/main/llama2/README.md)). Generally, the TGI server is more cost-effective than the custom server and simpler to set up. It provided better RPS, throughput, and lower latency. A different inference server, [vLLm](https://vllm.readthedocs.io), can offer even higher maximum RPS compared to TGI (you can find more details about our load testing experiments with it for LLama-2 [here](https://github.com/Wonigox/LLM-Finetuning-Hub/blob/main/llama2/README.md)). Last thing to mention is that models designed for classification are slower than those for summarization. Aslo, the model's size (number of training parameters) doesn't significantly impact its performance.
 
 #### Text Generation Inference
 
